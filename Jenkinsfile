@@ -11,7 +11,7 @@ java -version'''
           }
         }
 
-        stage('check for pom') {
+        stage('check for yashwanth') {
           steps {
             fileExists 'yashwanth'
           }
